@@ -1,0 +1,25 @@
+/node_modules
+
+/ideaboard/node_modules
+
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/ideaboard-api/node_modules
+
+# testing
+/ideaboard-api/coverage
+
+# production
+/ideaboard-api/build
+
+# misc
+/ideaboard-api/.DS_Store
+/ideaboard-api/.env.local
+/ideaboard-api/.env.development.local
+/ideaboard-api/.env.test.local
+/ideaboard-api/.env.production.local
+
+/ideaboard-api/npm-debug.log*
+/ideaboard-api/yarn-debug.log*
+/ideaboard-api/yarn-error.log*

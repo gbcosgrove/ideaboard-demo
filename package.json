@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^0.16.2",
+    "immutability-helper": "^2.3.1"
+  }
+}
